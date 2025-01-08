@@ -1,15 +1,24 @@
-- 👋 Hi, I’m @balemarthy
-- I am an embedded software engineer from India
-- 🔭 Working on embedded projects from various domains
-- 🌱 I also mentor early career embedded software professionals with their career and interviews
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Hello!&textBg=false&fontColor=000000&fontSize=90"/>
+</p>
 
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/balemarthyvamsi)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@krishna.bv)
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-<br>
+## Connect with me  
+<p align="center">
+<a href="https://www.linkedin.com/in/balemarthyvamsi/">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@balemarthyvamsi">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.quora.com/profile/Balemarthy-Vamsi-Krishna">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@BalemarthyVamsi">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube"/>
+</a>
+</p>
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
